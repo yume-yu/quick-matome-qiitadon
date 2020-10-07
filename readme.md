@@ -27,4 +27,4 @@ QiitadonのWebに画像の様なボタンが表示されるようになります
 ## 注意事項
 1. このid記録にはlocalStorageを使っています。
 2. Quick "Matome" For Qiitadon が作成するリンクは mastogetterが"互換性のために残している機能"を利用しています。そのため、mastogetterの変更に伴い機能しなくなることがあります。
-
+3. 力技のtootid取得により、通知タブのtootのidが正常に取得できません。気が向いたら直します。
